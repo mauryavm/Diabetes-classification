@@ -20,7 +20,7 @@ Data Splitting: Split the dataset into training and testing sets to evaluate the
 
 Model Development: Implemented machine learning algorithms including Logistic Regression, Random Forest, and Decision Tree to build the classification model.
 
-Model Evaluation: Achieved a classification accuracy of 77%, identifying the best-performing model for the dataset.
+Model Evaluation: Achieved a classification accuracy score, identifying the best-performing model for the dataset.
 
 Tools and Technologies :
 
